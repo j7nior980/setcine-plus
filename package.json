@@ -1,0 +1,13 @@
+{
+  "name": "setcine-plus",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node server/index.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^12.6.0",
+    "express": "^5.2.1",
+    "express-session": "^1.18.2"
+  }
+}
